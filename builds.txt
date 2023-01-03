@@ -1,0 +1,18 @@
+id="plugin.program.openwizard"
+version="1.0.0"
+zip="ox.zip"
+
+name="cock"
+version="1.0"
+url="https://www.dropbox.com/s/gwzd6efyyn2siy4/ox.zip?dl=1/"
+minor="http://"
+gui="http://your.guisettings.url/"
+kodi="20"
+theme="https://www.dropbox.com/s/hvvw7qglyijq43u/oxtheme.zip?dl=1"
+icon="http://"
+fanart="http://"
+preview="https://"
+adult="no"
+info="http:"
+description="A short description of the build."
+
