@@ -1,6 +1,6 @@
 id="plugin.program.openwizard"
 version="1.0.0"
-zip="ox.zip"
+zip="https://www.dropbox.com/s/gwzd6efyyn2siy4/ox.zip?dl=1"
 
 name="cock"
 version="1.0"
@@ -13,6 +13,6 @@ icon="http://"
 fanart="http://"
 preview="https://"
 adult="no"
-info="http:"
+info="https://www.dropbox.com/s/hvvw7qglyijq43u/oxtheme.zip?dl=1"
 description="A short description of the build."
 
